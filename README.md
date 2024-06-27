@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution at frontend mentor](https://your-solution-url.com)
+- Solution URL: [Solution at frontend mentor](https://www.frontendmentor.io/solutions/blog-card-solution-html5---css3---flexbox---bem-convention-S7ZV4myw8u)
 - Live Site URL: [live site](https://memobiomy.github.io/Blog-preview-card/)
 
 ## My process
