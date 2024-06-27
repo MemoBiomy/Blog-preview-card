@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution at frontend mentor](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://memobiomy.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -30,4 +30,4 @@ Users should be able to:
 - HTML5
 - CSS3
 - Flexbox
-- BEM
+- BEM naming convention
